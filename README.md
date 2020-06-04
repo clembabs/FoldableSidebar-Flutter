@@ -1,16 +1,14 @@
-# sidebar
+# Foldable Side Bar
 
 A new Flutter project.
 
-## Getting Started
+#Android screen
+<img height = "480px"  width="270px" src=https://github.com/clembabs/FoldableSidebar-Flutter/tree/master/screenshots/rename.jpeg>
 
-This project is a starting point for a Flutter application.
+#Android Profile Screen
+<img height = "480px"  width="270px" src=https://github.com/clembabs/FoldableSidebar-Flutter/tree/master/screenshots/profile.jpeg>
 
-A few resources to get you started if this is your first Flutter project:
+#Android SIde Screen
+<img height = "480px"  width="270px" src=https://github.com/clembabs/FoldableSidebar-Flutter/tree/master/screenshots/side.jpeg>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To reach me clembabs10@gmail.com
